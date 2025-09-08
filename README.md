@@ -51,7 +51,7 @@ We implement two canonical retrievers—**BM25** (sparse) and **MiniLM + FAISS**
 ├─ evaluation.py             # standardized metrics (nDCG, Recall, MAP, P@k)
 ├─ report.pdf                # RAG-focused mini-report (included for review)
 ├─ README.md
-├─ requirements.txt
+└─ requirements.txt
 ```
 
 ---
