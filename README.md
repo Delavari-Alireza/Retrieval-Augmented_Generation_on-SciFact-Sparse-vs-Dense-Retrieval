@@ -52,7 +52,6 @@ We implement two canonical retrievers—**BM25** (sparse) and **MiniLM + FAISS**
 ├─ report.pdf                # RAG-focused mini-report (included for review)
 ├─ README.md
 ├─ requirements.txt
-└─ (dev) .venv/, .gitignore, tmp.ipynb, LICENSE
 ```
 
 ---
